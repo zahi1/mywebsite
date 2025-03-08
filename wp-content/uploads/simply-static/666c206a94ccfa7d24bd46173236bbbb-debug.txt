@@ -1,0 +1,753 @@
+[2025-03-08 12:25:27] [class-ss-archive-creation-job.php:97] Starting a job; no job is presently running
+[2025-03-08 12:25:27] [class-ss-archive-creation-job.php:98] Here's our task list: setup, fetch_urls, transfer_files_locally, wrapup
+[2025-03-08 12:25:27] [class-ss-archive-creation-job.php:116] Pushing first task to queue: setup
+[2025-03-08 12:25:28] [class-ss-archive-creation-job.php:172] Current task: setup
+[2025-03-08 12:25:28] [class-ss-archive-creation-job.php:182] Performing task: setup
+[2025-03-08 12:25:28] [class-ss-task.php:44] Status message: [setup] Setting up
+[2025-03-08 12:25:28] [class-ss-setup-task.php:33] Creating archive directory: C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727\
+[2025-03-08 12:25:28] [class-ss-setup-task.php:72] Adding origin URL to queue: http://localhost/zahielhelou/
+[2025-03-08 12:25:28] [class-ss-setup-task.php:155] Adding files from directory: C:/Users/helou/zahielhelou/wp-content/uploads
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\306312289_451185357031668_1496062701798007482_n.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/306312289_451185357031668_1496062701798007482_n.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\611A6435_Zahi-3.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/611A6435_Zahi-3.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\7L2A6387_2_bw-3.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_bw-3.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\7L2A6387_2_grain-1.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_grain-1.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\7L2A6399_3_grain.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/7L2A6399_3_grain.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\DSC04439-2.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/DSC04439-2.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\FVR-1.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/FVR-1.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\IMG_7421-1.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/IMG_7421-1.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\IMG_8413-1.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/IMG_8413-1.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\IMG_8509_Zahi.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/IMG_8509_Zahi.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\Kyga-86-1.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Kyga-86-1.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\Kyga-90-2.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Kyga-90-2.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\Kyga-94-1.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Kyga-94-1.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\Lifestyle_PCO_EXTREME-6.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Lifestyle_PCO_EXTREME-6.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\Little-Boy.gif.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Little-Boy.gif.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\NordLayer.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/NordLayer.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\P1811415.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/P1811415.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\Party-and-CoExtreme.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Party-and-CoExtreme.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\Surfshark.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Surfshark.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\Zahi-El-Helou-Go-Vilnius-1.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-Go-Vilnius-1.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content/uploads\2025\03\Zahi-El-Helou-PostNord-1.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-PostNord-1.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:155] Adding files from directory: C:/Users/helou/zahielhelou/wp-content
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\themes\artsylens\assets\fonts\ibarra-real-nova\IbarraRealNova-VariableFont_wght.woff2 to queue as: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/ibarra-real-nova/IbarraRealNova-VariableFont_wght.woff2
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\themes\artsylens\assets\fonts\lato\Lato-Black.woff2 to queue as: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Black.woff2
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\themes\artsylens\assets\fonts\lato\Lato-Bold.woff2 to queue as: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Bold.woff2
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\themes\artsylens\assets\fonts\lato\Lato-Italic.woff2 to queue as: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Italic.woff2
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\themes\artsylens\assets\fonts\lato\Lato-Regular.woff2 to queue as: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Regular.woff2
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\themes\artsylens\style.css to queue as: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/style.css
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\306312289_451185357031668_1496062701798007482_n.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/306312289_451185357031668_1496062701798007482_n.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\611A6435_Zahi-3.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/611A6435_Zahi-3.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\7L2A6387_2_bw-3.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_bw-3.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\7L2A6387_2_grain-1.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_grain-1.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\7L2A6399_3_grain.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/7L2A6399_3_grain.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\DSC04439-2.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/DSC04439-2.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\FVR-1.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/FVR-1.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\IMG_7421-1.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/IMG_7421-1.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\IMG_8413-1.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/IMG_8413-1.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\IMG_8509_Zahi.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/IMG_8509_Zahi.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\Kyga-86-1.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Kyga-86-1.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\Kyga-90-2.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Kyga-90-2.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\Kyga-94-1.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Kyga-94-1.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\Lifestyle_PCO_EXTREME-6.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Lifestyle_PCO_EXTREME-6.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\Little-Boy.gif.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Little-Boy.gif.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\NordLayer.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/NordLayer.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\P1811415.jpg to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/P1811415.jpg
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\Party-and-CoExtreme.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Party-and-CoExtreme.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\Surfshark.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Surfshark.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\Zahi-El-Helou-Go-Vilnius-1.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-Go-Vilnius-1.gif
+[2025-03-08 12:25:28] [class-ss-setup-task.php:160] Adding file C:/Users/helou/zahielhelou/wp-content\uploads\2025\03\Zahi-El-Helou-PostNord-1.gif to queue as: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-PostNord-1.gif
+[2025-03-08 12:25:28] [class-ss-archive-creation-job.php:204] We've found our next task: fetch_urls
+[2025-03-08 12:25:28] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-03-08 12:25:28] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-03-08 12:25:28] [class-ss-fetch-urls-task.php:66] Total pages: 28; Pages remaining: 28
+[2025-03-08 12:25:28] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/
+[2025-03-08 12:25:28] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 28
+[2025-03-08 12:25:28] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:28] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc37384c8db-quGjBS.tmp
+[2025-03-08 12:25:28] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/?simply_static_page=412
+[2025-03-08 12:25:28] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/?simply_static_page=412
+[2025-03-08 12:25:28] [class-ss-url-fetcher.php:103] Filesize: 145514 bytes
+[2025-03-08 12:25:28] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2025-03-08 12:25:28] [class-ss-url-fetcher.php:233] New filename for static page: /index.html
+[2025-03-08 12:25:28] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc37384c8db-quGjBS.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/index.html
+[2025-03-08 12:25:28] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:155] Adding 38 URLs to the queue
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:29] [class-ss-page.php:119] Checking Content Identical:e5a744048e9054b42e36325e829a718965dfd252===. Value: FALSE
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/306312289_451185357031668_1496062701798007482_n.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/611A6435_Zahi-3.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_bw-3.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_grain-1.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/7L2A6399_3_grain.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/DSC04439-2.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/FVR-1.gif
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/IMG_7421-1.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/IMG_8413-1.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/IMG_8509_Zahi.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Kyga-86-1.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Kyga-90-2.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Kyga-94-1.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Lifestyle_PCO_EXTREME-6.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Little-Boy.gif.gif
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/NordLayer.gif
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/P1811415.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Party-and-CoExtreme.gif
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Surfshark.gif
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-Go-Vilnius-1.gif
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-PostNord-1.gif
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/ibarra-real-nova/IbarraRealNova-VariableFont_wght.woff2
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Black.woff2
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Bold.woff2
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Italic.woff2
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Regular.woff2
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/style.css
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 28
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2025-03-08 12:25:29] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 0 of 28 pages/files
+[2025-03-08 12:25:29] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-03-08 12:25:29] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-03-08 12:25:29] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:66] Total pages: 65; Pages remaining: 37
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 65
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc37396ba76-4IQIMj.tmp
+[2025-03-08 12:25:29] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou?simply_static_page=440
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou?simply_static_page=440
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:103] Filesize: 360 bytes
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=iso-8859-1
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:200] redirect_url: http://localhost/zahielhelou/
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:209] This is a redirect to a trailing slashed version of the same page; adding new URL to the queue
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_bw-3.jpg
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 65
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373974f25-1GKDF4.tmp
+[2025-03-08 12:25:29] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_bw-3.jpg?simply_static_page=441
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_bw-3.jpg?simply_static_page=441
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:103] Filesize: 11070717 bytes
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/7L2A6387_2_bw-3.jpg
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373974f25-1GKDF4.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/7L2A6387_2_bw-3.jpg
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:29] [class-ss-page.php:119] Checking Content Identical:8d189519fb925b649f88464785459377c71e14a5===. Value: FALSE
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/FVR-1.gif
+[2025-03-08 12:25:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 65
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc3739a6a8f-gu8uZv.tmp
+[2025-03-08 12:25:29] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/FVR-1.gif?simply_static_page=442
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/FVR-1.gif?simply_static_page=442
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:103] Filesize: 20092226 bytes
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/gif
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/FVR-1.gif
+[2025-03-08 12:25:29] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc3739a6a8f-gu8uZv.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/FVR-1.gif
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:29] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:30] [class-ss-page.php:119] Checking Content Identical:ab333a7df242960278b15be31b2c1c840a88549b===. Value: FALSE
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-PostNord-1.gif
+[2025-03-08 12:25:30] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 65
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373a08587-sg1lTH.tmp
+[2025-03-08 12:25:30] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-PostNord-1.gif?simply_static_page=443
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-PostNord-1.gif?simply_static_page=443
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:103] Filesize: 2764018 bytes
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/gif
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/Zahi-El-Helou-PostNord-1.gif
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373a08587-sg1lTH.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/Zahi-El-Helou-PostNord-1.gif
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:30] [class-ss-page.php:119] Checking Content Identical:7dbd17aa454e9ade3b1df0c9485268bf6bced75c===. Value: FALSE
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-Go-Vilnius-1.gif
+[2025-03-08 12:25:30] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 65
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373a18732-veIbkJ.tmp
+[2025-03-08 12:25:30] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-Go-Vilnius-1.gif?simply_static_page=444
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Zahi-El-Helou-Go-Vilnius-1.gif?simply_static_page=444
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:103] Filesize: 7767064 bytes
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/gif
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/Zahi-El-Helou-Go-Vilnius-1.gif
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373a18732-veIbkJ.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/Zahi-El-Helou-Go-Vilnius-1.gif
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:30] [class-ss-page.php:119] Checking Content Identical:164271fb1449e9a945ed65799c9e24eb35a4a1db===. Value: FALSE
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/NordLayer.gif
+[2025-03-08 12:25:30] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 65
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373a3a387-NwYx22.tmp
+[2025-03-08 12:25:30] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/NordLayer.gif?simply_static_page=445
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/NordLayer.gif?simply_static_page=445
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:103] Filesize: 17560508 bytes
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/gif
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/NordLayer.gif
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373a3a387-NwYx22.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/NordLayer.gif
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:30] [class-ss-page.php:119] Checking Content Identical:db39381297529d4d431a3724eed7fdad66408a36===. Value: FALSE
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Surfshark.gif
+[2025-03-08 12:25:30] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 65
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373a82b16-iI8eJQ.tmp
+[2025-03-08 12:25:30] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/Surfshark.gif?simply_static_page=446
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Surfshark.gif?simply_static_page=446
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:103] Filesize: 13114080 bytes
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/gif
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/Surfshark.gif
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373a82b16-iI8eJQ.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/Surfshark.gif
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:30] [class-ss-page.php:119] Checking Content Identical:4dde3732d1c89115953d82cec99a282d88ad7eeb===. Value: FALSE
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Party-and-CoExtreme.gif
+[2025-03-08 12:25:30] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 65
+[2025-03-08 12:25:30] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373abb88b-t6nXuX.tmp
+[2025-03-08 12:25:30] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/Party-and-CoExtreme.gif?simply_static_page=447
+[2025-03-08 12:25:30] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Party-and-CoExtreme.gif?simply_static_page=447
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:103] Filesize: 22083765 bytes
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/gif
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/Party-and-CoExtreme.gif
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373abb88b-t6nXuX.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/Party-and-CoExtreme.gif
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:31] [class-ss-page.php:119] Checking Content Identical:198e8f635c741eec62fbfacbc1d5b635dfb559e2===. Value: FALSE
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Little-Boy.gif.gif
+[2025-03-08 12:25:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 65
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373b20224-ITE9dO.tmp
+[2025-03-08 12:25:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/Little-Boy.gif.gif?simply_static_page=448
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Little-Boy.gif.gif?simply_static_page=448
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:103] Filesize: 15893940 bytes
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/gif
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/Little-Boy.gif.gif
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373b20224-ITE9dO.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/Little-Boy.gif.gif
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:31] [class-ss-page.php:119] Checking Content Identical:a75f731b020683095da2faf55c569858dcfe7f4f===. Value: FALSE
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_grain-1.jpg
+[2025-03-08 12:25:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 65
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373b5d826-dJv6wa.tmp
+[2025-03-08 12:25:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_grain-1.jpg?simply_static_page=449
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/7L2A6387_2_grain-1.jpg?simply_static_page=449
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:103] Filesize: 3338068 bytes
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/7L2A6387_2_grain-1.jpg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373b5d826-dJv6wa.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/7L2A6387_2_grain-1.jpg
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:31] [class-ss-page.php:119] Checking Content Identical:91cc4dd642187067a1ae4c43f3f5e3cc6cbb3f5f===. Value: FALSE
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/IMG_8509_Zahi.jpg
+[2025-03-08 12:25:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 65
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373b724d9-FFrGSw.tmp
+[2025-03-08 12:25:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/IMG_8509_Zahi.jpg?simply_static_page=450
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/IMG_8509_Zahi.jpg?simply_static_page=450
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:103] Filesize: 477668 bytes
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/IMG_8509_Zahi.jpg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373b724d9-FFrGSw.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/IMG_8509_Zahi.jpg
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:31] [class-ss-page.php:119] Checking Content Identical:5b5d40ef0a13c6f359fb62bbd51f9cfb19d118a1===. Value: FALSE
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/IMG_7421-1.jpg
+[2025-03-08 12:25:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 65
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373b7ed73-tZzSwe.tmp
+[2025-03-08 12:25:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/IMG_7421-1.jpg?simply_static_page=451
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/IMG_7421-1.jpg?simply_static_page=451
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:103] Filesize: 2474962 bytes
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/IMG_7421-1.jpg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373b7ed73-tZzSwe.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/IMG_7421-1.jpg
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:31] [class-ss-page.php:119] Checking Content Identical:3415d9000a93c2a381c6c9bfdea8e9ca0bfdc9c5===. Value: FALSE
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/611A6435_Zahi-3.jpg
+[2025-03-08 12:25:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 65
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373b90738-mWNCue.tmp
+[2025-03-08 12:25:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/611A6435_Zahi-3.jpg?simply_static_page=452
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/611A6435_Zahi-3.jpg?simply_static_page=452
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:103] Filesize: 2610322 bytes
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/611A6435_Zahi-3.jpg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373b90738-mWNCue.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/611A6435_Zahi-3.jpg
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:31] [class-ss-page.php:119] Checking Content Identical:e2406d797a5278811357b94cc4f02eb2ad2342ac===. Value: FALSE
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/IMG_8413-1.jpg
+[2025-03-08 12:25:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 65
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373ba7457-ePPdKQ.tmp
+[2025-03-08 12:25:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/IMG_8413-1.jpg?simply_static_page=453
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/IMG_8413-1.jpg?simply_static_page=453
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:103] Filesize: 6156651 bytes
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/IMG_8413-1.jpg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373ba7457-ePPdKQ.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/IMG_8413-1.jpg
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:31] [class-ss-page.php:119] Checking Content Identical:5aeb6545dcf858f0ab7990c1f8c91a13c3c56ede===. Value: FALSE
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/306312289_451185357031668_1496062701798007482_n.jpg
+[2025-03-08 12:25:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 65
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373bc6e91-2Sbnb1.tmp
+[2025-03-08 12:25:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/306312289_451185357031668_1496062701798007482_n.jpg?simply_static_page=454
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/306312289_451185357031668_1496062701798007482_n.jpg?simply_static_page=454
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:103] Filesize: 632544 bytes
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/306312289_451185357031668_1496062701798007482_n.jpg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373bc6e91-2Sbnb1.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/306312289_451185357031668_1496062701798007482_n.jpg
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:31] [class-ss-page.php:119] Checking Content Identical:0cfa232f43c846d0d3437ff34e33c644b8b348c9===. Value: FALSE
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Kyga-94-1.jpg
+[2025-03-08 12:25:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 65
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373bd0085-1RWivV.tmp
+[2025-03-08 12:25:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/Kyga-94-1.jpg?simply_static_page=455
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Kyga-94-1.jpg?simply_static_page=455
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:103] Filesize: 2850209 bytes
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/Kyga-94-1.jpg
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373bd0085-1RWivV.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/Kyga-94-1.jpg
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:31] [class-ss-page.php:119] Checking Content Identical:246385739fe3cc3f6ba75aaa678e2a0d5aea8d5c===. Value: FALSE
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/P1811415.jpg
+[2025-03-08 12:25:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 65
+[2025-03-08 12:25:31] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373be3d24-GJCOKa.tmp
+[2025-03-08 12:25:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/P1811415.jpg?simply_static_page=456
+[2025-03-08 12:25:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/P1811415.jpg?simply_static_page=456
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:103] Filesize: 7184741 bytes
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/P1811415.jpg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373be3d24-GJCOKa.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/P1811415.jpg
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:32] [class-ss-page.php:119] Checking Content Identical:1a44ae1e86b92a5e3ac0f4d928c4283ba1b63b3c===. Value: FALSE
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Kyga-86-1.jpg
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373c0b33c-PwzdTK.tmp
+[2025-03-08 12:25:32] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/Kyga-86-1.jpg?simply_static_page=457
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Kyga-86-1.jpg?simply_static_page=457
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:103] Filesize: 4202854 bytes
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/Kyga-86-1.jpg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373c0b33c-PwzdTK.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/Kyga-86-1.jpg
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:32] [class-ss-page.php:119] Checking Content Identical:b5ac9b4cf9531caf2b428394757243fb4fcc5642===. Value: FALSE
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Kyga-90-2.jpg
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373c1e2bb-RzmK5I.tmp
+[2025-03-08 12:25:32] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/Kyga-90-2.jpg?simply_static_page=458
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Kyga-90-2.jpg?simply_static_page=458
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:103] Filesize: 3674639 bytes
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/Kyga-90-2.jpg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373c1e2bb-RzmK5I.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/Kyga-90-2.jpg
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:32] [class-ss-page.php:119] Checking Content Identical:83ee99ba435bc05cceed878c51632edaf53ab2a2===. Value: FALSE
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/DSC04439-2.jpg
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373c34697-rn6ViY.tmp
+[2025-03-08 12:25:32] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/DSC04439-2.jpg?simply_static_page=459
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/DSC04439-2.jpg?simply_static_page=459
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:103] Filesize: 6129019 bytes
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/DSC04439-2.jpg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373c34697-rn6ViY.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/DSC04439-2.jpg
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:32] [class-ss-page.php:119] Checking Content Identical:f2521bba117230f08017c5390dbc95ac23a697bc===. Value: FALSE
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Lifestyle_PCO_EXTREME-6.jpg
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373c4e35c-yvnfQc.tmp
+[2025-03-08 12:25:32] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/Lifestyle_PCO_EXTREME-6.jpg?simply_static_page=460
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/Lifestyle_PCO_EXTREME-6.jpg?simply_static_page=460
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:103] Filesize: 5300383 bytes
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/Lifestyle_PCO_EXTREME-6.jpg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373c4e35c-yvnfQc.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/Lifestyle_PCO_EXTREME-6.jpg
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:32] [class-ss-page.php:119] Checking Content Identical:ed0194a9b0b3453b88269e3b6a3ef21122a6ade8===. Value: FALSE
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/7L2A6399_3_grain.jpg
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373c6916e-kk3wZi.tmp
+[2025-03-08 12:25:32] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/uploads/2025/03/7L2A6399_3_grain.jpg?simply_static_page=461
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/uploads/2025/03/7L2A6399_3_grain.jpg?simply_static_page=461
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:103] Filesize: 19089429 bytes
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/7L2A6399_3_grain.jpg
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373c6916e-kk3wZi.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/uploads/2025/03/7L2A6399_3_grain.jpg
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:32] [class-ss-page.php:119] Checking Content Identical:cd75bb0725de039dce48c1a174e49d1f552a8c8f===. Value: FALSE
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373cb9ccb-OgHdgu.tmp
+[2025-03-08 12:25:32] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?simply_static_page=462
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?simply_static_page=462
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:103] Filesize: 3300 bytes
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/javascript
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373cb9ccb-OgHdgu.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:32] [class-ss-page.php:119] Checking Content Identical:b27ba805d3b9118edfd523f01fd6e84229d52ffd===. Value: FALSE
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/feed/
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/zahielhelou/feed/
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/comments/feed/
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/zahielhelou/comments/feed/
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-includes/blocks/navigation/style.min.css
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373cc4757-lKS4dM.tmp
+[2025-03-08 12:25:32] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-includes/blocks/navigation/style.min.css?simply_static_page=465
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-includes/blocks/navigation/style.min.css?simply_static_page=465
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:103] Filesize: 16384 bytes
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/blocks/navigation/style.min.css
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373cc4757-lKS4dM.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-includes/blocks/navigation/style.min.css
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:32] [class-ss-page.php:119] Checking Content Identical:da66b61dcc5204277eb7846b9dce55b2e7d58a42===. Value: FALSE
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-includes/blocks/social-links/style.min.css
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373cd3dd4-dJ2jHW.tmp
+[2025-03-08 12:25:32] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-includes/blocks/social-links/style.min.css?simply_static_page=466
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-includes/blocks/social-links/style.min.css?simply_static_page=466
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:103] Filesize: 11600 bytes
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/blocks/social-links/style.min.css
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373cd3dd4-dJ2jHW.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-includes/blocks/social-links/style.min.css
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:32] [class-ss-page.php:119] Checking Content Identical:31aa11f7c686b08c09618aad559b886161247a72===. Value: FALSE
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-includes/blocks/cover/style.min.css
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 65
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373ce3f45-MPggJU.tmp
+[2025-03-08 12:25:32] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-includes/blocks/cover/style.min.css?simply_static_page=467
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-includes/blocks/cover/style.min.css?simply_static_page=467
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:103] Filesize: 18099 bytes
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/blocks/cover/style.min.css
+[2025-03-08 12:25:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373ce3f45-MPggJU.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-includes/blocks/cover/style.min.css
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:32] [class-ss-page.php:119] Checking Content Identical:c66e72e25362483017fa1c49bcae6e4087fe47c7===. Value: FALSE
+[2025-03-08 12:25:32] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/themes/artsylens/style.css
+[2025-03-08 12:25:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 65
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373d00b83-WMq3CW.tmp
+[2025-03-08 12:25:33] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/themes/artsylens/style.css?simply_static_page=468
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/themes/artsylens/style.css?simply_static_page=468
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:103] Filesize: 132064 bytes
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/artsylens/style.css
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373d00b83-WMq3CW.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/themes/artsylens/style.css
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:33] [class-ss-page.php:119] Checking Content Identical:c089e62c4554f136be089f84f85873626f37ae45===. Value: FALSE
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-json/
+[2025-03-08 12:25:33] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 65
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/zahielhelou/wp-json/
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/xmlrpc.php
+[2025-03-08 12:25:33] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 65
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/zahielhelou/xmlrpc.php
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-03-08 12:25:33] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 65
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373d1bceb-yFYoFr.tmp
+[2025-03-08 12:25:33] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-includes/js/dist/script-modules/interactivity/index.min.js?simply_static_page=471
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-includes/js/dist/script-modules/interactivity/index.min.js?simply_static_page=471
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:103] Filesize: 36946 bytes
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/javascript
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373d1bceb-yFYoFr.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:33] [class-ss-page.php:119] Checking Content Identical:2a62fbfe456849045bc616b95803f580d9fe448a===. Value: FALSE
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Italic.woff2
+[2025-03-08 12:25:33] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 65
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373d34194-X7SesE.tmp
+[2025-03-08 12:25:33] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Italic.woff2?simply_static_page=472
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Italic.woff2?simply_static_page=472
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:103] Filesize: 29592 bytes
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/artsylens/assets/fonts/lato/Lato-Italic.woff2
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373d34194-X7SesE.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/themes/artsylens/assets/fonts/lato/Lato-Italic.woff2
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:33] [class-ss-page.php:119] Checking Content Identical:e57d19b90ff89a9ab7d2c49680d7fb8270c7fa33===. Value: FALSE
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Regular.woff2
+[2025-03-08 12:25:33] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 65
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373d3a1ff-vRuvbA.tmp
+[2025-03-08 12:25:33] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Regular.woff2?simply_static_page=473
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Regular.woff2?simply_static_page=473
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:103] Filesize: 28456 bytes
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/artsylens/assets/fonts/lato/Lato-Regular.woff2
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373d3a1ff-vRuvbA.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/themes/artsylens/assets/fonts/lato/Lato-Regular.woff2
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:33] [class-ss-page.php:119] Checking Content Identical:90c2b482986694f865b444f4ecceb17134362764===. Value: FALSE
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Bold.woff2
+[2025-03-08 12:25:33] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 65
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373d42192-xqh7WP.tmp
+[2025-03-08 12:25:33] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Bold.woff2?simply_static_page=474
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Bold.woff2?simply_static_page=474
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:103] Filesize: 27804 bytes
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/artsylens/assets/fonts/lato/Lato-Bold.woff2
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373d42192-xqh7WP.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/themes/artsylens/assets/fonts/lato/Lato-Bold.woff2
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:33] [class-ss-page.php:119] Checking Content Identical:21d9ddc37e617c89939c7a2ccb96fc70912d4865===. Value: FALSE
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Black.woff2
+[2025-03-08 12:25:33] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 65
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373d474cd-17Aek3.tmp
+[2025-03-08 12:25:33] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Black.woff2?simply_static_page=475
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato/Lato-Black.woff2?simply_static_page=475
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:103] Filesize: 27452 bytes
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/artsylens/assets/fonts/lato/Lato-Black.woff2
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373d474cd-17Aek3.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/themes/artsylens/assets/fonts/lato/Lato-Black.woff2
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:33] [class-ss-page.php:119] Checking Content Identical:24bce49f50b4e69d064832a637889f8e173c7178===. Value: FALSE
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:69] URL: http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/ibarra-real-nova/IbarraRealNova-VariableFont_wght.woff2
+[2025-03-08 12:25:33] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 65
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\helou\AppData\Local\Temp/67cc373d4c0f3-wIH8eF.tmp
+[2025-03-08 12:25:33] [class-ss-page-handler.php:38] URL Prepared:http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/ibarra-real-nova/IbarraRealNova-VariableFont_wght.woff2?simply_static_page=476
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/zahielhelou/wp-content/themes/artsylens/assets/fonts/ibarra-real-nova/IbarraRealNova-VariableFont_wght.woff2?simply_static_page=476
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:103] Filesize: 44132 bytes
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/artsylens/assets/fonts/ibarra-real-nova/IbarraRealNova-VariableFont_wght.woff2
+[2025-03-08 12:25:33] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\helou\AppData\Local\Temp/67cc373d4c0f3-wIH8eF.tmp to C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727/wp-content/themes/artsylens/assets/fonts/ibarra-real-nova/IbarraRealNova-VariableFont_wght.woff2
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-08 12:25:33] [class-ss-page.php:119] Checking Content Identical:07f238438cc24c0eefbe3c897a7f78323c40b1ca===. Value: FALSE
+[2025-03-08 12:25:33] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 28 of 65 pages/files
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-03-08 12:25:33] [class-ss-fetch-urls-task.php:66] Total pages: 65; Pages remaining: 0
+[2025-03-08 12:25:33] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 65 of 65 pages/files
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:204] We've found our next task: transfer_files_locally
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:234] Cleaning on first run for task: transfer_files_locally
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:172] Current task: transfer_files_locally
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:182] Performing task: transfer_files_locally
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /index.html
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/7L2A6387_2_bw-3.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/FVR-1.gif
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/Zahi-El-Helou-PostNord-1.gif
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/Zahi-El-Helou-Go-Vilnius-1.gif
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/NordLayer.gif
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/Surfshark.gif
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/Party-and-CoExtreme.gif
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/Little-Boy.gif.gif
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/7L2A6387_2_grain-1.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/IMG_8509_Zahi.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/IMG_7421-1.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/611A6435_Zahi-3.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/IMG_8413-1.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/306312289_451185357031668_1496062701798007482_n.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/Kyga-94-1.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/P1811415.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/Kyga-86-1.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/Kyga-90-2.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/DSC04439-2.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/Lifestyle_PCO_EXTREME-6.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/7L2A6399_3_grain.jpg
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/uploads/2025/03
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-includes/js/dist/script-modules/block-library/navigation
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/blocks/navigation/style.min.css
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-includes/blocks/navigation
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/blocks/social-links/style.min.css
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-includes/blocks/social-links
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/blocks/cover/style.min.css
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-includes/blocks/cover
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/artsylens/style.css
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/themes/artsylens
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-includes/js/dist/script-modules/interactivity
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/artsylens/assets/fonts/lato/Lato-Italic.woff2
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/artsylens/assets/fonts/lato/Lato-Regular.woff2
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/artsylens/assets/fonts/lato/Lato-Bold.woff2
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/artsylens/assets/fonts/lato/Lato-Black.woff2
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/lato
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/artsylens/assets/fonts/ibarra-real-nova/IbarraRealNova-VariableFont_wght.woff2
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/Users/helou/zahielhelou/wp-content/themes/artsylens/assets/fonts/ibarra-real-nova
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:98] [Transfer] Total Pages:33. Processed Pages: 33
+[2025-03-08 12:25:33] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 33 of 33 files
+[2025-03-08 12:25:33] [trait-can-process-pages.php:114] Total pages: 33; Pages remaining: 0
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:197] Transferring 404 Page
+[2025-03-08 12:25:33] [class-ss-transfer-files-locally-task.php:200] No 404 Page found at C:\xampp\htdocs\zahielhelou/wp-content/uploads\simply-static\temp-files/simply-static-1-1741436727\404\index.html
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:204] We've found our next task: wrapup
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:172] Current task: wrapup
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:182] Performing task: wrapup
+[2025-03-08 12:25:33] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2025-03-08 12:25:33] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:199] This task is done and there are no more tasks, time to complete the job
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:244] Completing the job
+[2025-03-08 12:25:33] [class-ss-archive-creation-job.php:371] Status message: [done] Done! Finished in 00:00:06
