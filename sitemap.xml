@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://zahi1.github.io/mywebsite/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://zahielhelou.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://zahi1.github.io/mywebsite/post-sitemap.xml</loc>
+		<loc>https://zahielhelou.com/post-sitemap.xml</loc>
 		<lastmod>2025-03-15T22:26:53+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://zahi1.github.io/mywebsite/page-sitemap.xml</loc>
+		<loc>https://zahielhelou.com/page-sitemap.xml</loc>
 		<lastmod>2025-03-01T01:00:50+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://zahi1.github.io/mywebsite/category-sitemap.xml</loc>
+		<loc>https://zahielhelou.com/category-sitemap.xml</loc>
 		<lastmod>2025-03-15T22:26:53+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://zahi1.github.io/mywebsite/author-sitemap.xml</loc>
+		<loc>https://zahielhelou.com/author-sitemap.xml</loc>
 		<lastmod>2025-03-15T21:26:07+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
