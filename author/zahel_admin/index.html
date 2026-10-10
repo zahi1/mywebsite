@@ -216,6 +216,25 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="icon" href="https://zahielhelou.com/wp-content/uploads/2025/03/Untitled_design__5___1_-removebg-preview-1.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://zahielhelou.com/wp-content/uploads/2025/03/Untitled_design__5___1_-removebg-preview-1.png">
 <meta name="msapplication-TileImage" content="https://zahielhelou.com/wp-content/uploads/2025/03/Untitled_design__5___1_-removebg-preview-1.png">
+<style id="side-drawer-menu-css">
+/* Mobile menu: slide-in side panel over the page instead of a full-screen overlay */
+.wp-block-navigation__responsive-container.is-menu-open{left:auto;right:0;top:0;bottom:0;width:min(320px,82vw);box-shadow:0 0 0 100vmax rgba(0,0,0,.35),-8px 0 24px rgba(0,0,0,.15);animation:side-drawer-in .28s cubic-bezier(.2,.8,.2,1) both}
+.items-justified-left .wp-block-navigation__responsive-container.is-menu-open{left:0;right:auto;box-shadow:0 0 0 100vmax rgba(0,0,0,.35),8px 0 24px rgba(0,0,0,.15);animation-name:side-drawer-in-left}
+.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content{align-items:flex-start}
+.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__container{gap:1.25rem}
+@keyframes side-drawer-in{from{transform:translateX(100%)}to{transform:none}}
+@keyframes side-drawer-in-left{from{transform:translateX(-100%)}to{transform:none}}
+@media (prefers-reduced-motion:reduce){.wp-block-navigation__responsive-container.is-menu-open{animation:none}}
+</style>
+<script id="side-drawer-menu-js">
+/* Close the side menu when tapping the dimmed page outside it */
+document.addEventListener('click',function(e){
+	var open=document.querySelector('.wp-block-navigation__responsive-container.is-menu-open');
+	if(!open||open.contains(e.target)||e.target.closest('.wp-block-navigation__responsive-container-open'))return;
+	e.preventDefault();e.stopPropagation();
+	open.querySelector('.wp-block-navigation__responsive-container-close').click();
+},true);
+</script>
 </head>
 
 <body class="archive author author-zahel_admin author-1 wp-embed-responsive">
