@@ -2435,12 +2435,11 @@ table.woocommerce-table th {
   .portfolio-section .sub-content a {
     font-weight: 400; }
 .portfolio-section .wp-block-column figure img {
-  transition: 0.3s ease-in-out; }
-.portfolio-section .wp-block-column:hover figure img {
-  filter: drop-shadow(2px 4px 6px black);
-  transform: rotateX(-10deg) translateZ(50px);
-  -webkit-transform: rotateX(-10deg) translateZ(50px);
-  -moz-transform: rotateX(-10deg) translateZ(50px); }
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; }
+@media (hover: hover) {
+  .portfolio-section .wp-block-column:hover figure img {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); } }
 .portfolio-section h4 {
   font-weight: var(--wp--custom--typography--font-weight--medium); }
 
